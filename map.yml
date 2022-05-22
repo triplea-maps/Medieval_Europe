@@ -1,0 +1,4 @@
+map_name: Medieval_Europe
+games:
+- {game_name: Medieval_Europe, file_name: Medieval_Europe.xml}
+version: 0
